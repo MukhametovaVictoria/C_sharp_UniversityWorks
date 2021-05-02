@@ -1,0 +1,9 @@
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\bin\Debug\Bloknot.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\bin\Debug\Bloknot.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\bin\Debug\Bloknot.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.Form1.resources
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.csproj.GenerateResource.Cache
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Bloknot\Bloknot\obj\Debug\Bloknot.pdb

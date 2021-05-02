@@ -1,0 +1,8 @@
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\bin\Debug\DlyaPrimera.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\bin\Debug\DlyaPrimera.exe
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\bin\Debug\DlyaPrimera.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\obj\Debug\DlyaPrimera.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\obj\Debug\DlyaPrimera.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\obj\Debug\DlyaPrimera.csproj.GenerateResource.Cache
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\obj\Debug\DlyaPrimera.exe
+C:\Users\Виктория\Desktop\Универ\ТП\DlyaPrimera\DlyaPrimera\obj\Debug\DlyaPrimera.pdb
